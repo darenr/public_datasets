@@ -1,0 +1,81 @@
+--2020-06-04 12:01:21--  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 199.232.8.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:01:29--  (try: 2)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:02:47--  (try: 3)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:04:05--  (try: 4)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:05:25--  (try: 5)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:06:45--  (try: 6)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:08:06--  (try: 7)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:09:29--  (try: 8)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:10:52--  (try: 9)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:12:17--  (try:10)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:13:42--  (try:11)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:15:07--  (try:12)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:16:33--  (try:13)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:17:58--  (try:14)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:19:24--  (try:15)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:20:49--  (try:16)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:22:15--  (try:17)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:23:40--  (try:18)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:25:05--  (try:19)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Retrying.
+
+--2020-06-04 12:26:31--  (try:20)  https://raw.githubusercontent.com/amueller/scipy-2017-sklearn/091d371/notebooks/datasets/titanic3.csv
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|199.232.8.133|:443... failed: Operation timed out.
+Giving up.
+
